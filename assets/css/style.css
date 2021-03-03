@@ -288,14 +288,14 @@ p {
 }
 
 .footer>.social-media-icons-wrapper {
-    margin-bottom: 20px;
+    margin-bottom: 8px;
     width: 100px;
     display: inline-flex;
    justify-content: space-between;
 }
 
 .footer>.social-media-icons-wrapper a {
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: #cea135;
     transition: 0.5s;
 }
