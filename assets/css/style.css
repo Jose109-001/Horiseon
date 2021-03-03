@@ -6,7 +6,7 @@
 
 body {
     background-color: #d9dcd6;
-    padding: 50px;
+    padding: 35px;
     
 }
 
@@ -95,7 +95,7 @@ p {
 
 .benefits {
     margin-right: 10px;
-    margin-top: 9px;
+    margin-top: 20px;
     margin-bottom: 20px;
     padding: 20px;
     clear: both;
@@ -319,9 +319,9 @@ p {
 }
 
 .footer {
-    padding: 5px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
