@@ -5,17 +5,16 @@
 }
 
 body {
-    background-color: hsl(60, 12%, 76%);
-    
+    background-color: #d9dcd6;
 }
 
 .header {
     padding: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #259bd2;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #0072bb;
     color: hsl(0, 15%, 81%);
     border-style: outset;
-    border-color: lightblue;
+    border-color: darkblue;
     
 }
 
@@ -25,7 +24,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #cea135;
+    color: #d9dcd6;
 }
 
 .header div {
@@ -33,9 +32,9 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     border-radius: 0px;
-    border-color: lightblue;
+    border-color: darkblue;
 }
 
 .header div ul {
@@ -65,12 +64,12 @@ p {
     height: 500px;
     width: 100%;
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 3px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: contain;
     background-position: center;
     border-style: outset;
-    border-color: lightblue;
+    border-color: darkblue
 
     
 }
@@ -82,28 +81,29 @@ p {
 
 .float-right {
     float: right;
-    margin-left: 25px;
+    margin-left: 30px;
 }
 
 .content {
-    width: 77%;
+    width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 5px;
 }
 
 .benefits {
-    margin-right: 20px;
+    margin-right: 25px;
+    margin-left: 10px;
     margin-top: 9px;
-    margin-bottom: 15px;
-    padding: 15px;
+    margin-bottom: 20px;
+    padding: 20px;
     clear: both;
     float: right;
-    width: 20.0%;
+    width: 22.0%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     border-style: inset;
-    border-color: lightblue;
+    border-color: darkblue;
    
 }
 
@@ -139,7 +139,7 @@ p {
     font-size: 20px;
     text-align: center;
     margin-top: -25px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .benefit-brand h3 {
@@ -163,9 +163,9 @@ p {
 
 .benefit-cost h3 {
     margin-top: 10px;
-    margin-bottom: -28px;
+    margin-bottom: -15px;
     text-align: center;
-    font-size: 30px;
+    font-size: 32px;
     color: #cea135;
     transition: 0.5s;
 }
@@ -199,45 +199,42 @@ p {
 }
 
 .search-engine-optimization {
-    margin-bottom: 20px;
+    margin-bottom: 8px;
     margin-top: 8px;
-    margin-right: 15px;
-    padding: 50px;
+    padding: 45px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
     border-style: inset;
-    border-color: lightblue;
+    border-color: darkblue;
     
 }
 
 .online-reputation-management {
     margin-top: 8px;
-    margin-bottom: 20px;
-    margin-right: 15px;
-    padding: 50px;
+    margin-bottom: 8px;
+    padding: 45px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
     border-style: inset;
-    border-color:  lightblue;
+    border-color: darkblue;
    
     
 }
 
 .social-media-marketing {
     margin-top: 8px;
-    margin-bottom: 20px;
-    margin-right: 15px;
-    padding: 50;
+    margin-bottom: 5px;
+    padding: 45px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
     border-style: inset;
-    border-color: lightblue;
+    border-color: darkblue;
     
     
 }
@@ -323,14 +320,12 @@ p {
     padding: 10px;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 18px;
-    margin-right: 15px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     background-color : #0072bb;
     border-style: inset;
-    border-color: lightblue;
+    border-color: darkblue;
 }
 
 .footer h2 {
