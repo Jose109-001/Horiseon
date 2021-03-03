@@ -308,7 +308,6 @@ p {
 .footer {
     padding: 10px;
     margin-top: 5px;
-    margin-bottom: 5px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -317,7 +316,7 @@ p {
 
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .footer p {
