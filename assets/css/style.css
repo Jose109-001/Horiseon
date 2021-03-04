@@ -22,12 +22,11 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color:#cea135;
 }
 
 .header div {
-    padding-top: 15px;
-    margin-right: 20px;
+    padding-top: 10px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
@@ -290,8 +289,8 @@ p {
 .footer>.social-media-icons-wrapper {
     margin-bottom: 8px;
     width: 100px;
-    display: inline-flex;
-   justify-content: space-between;
+   
+    justify-content: space-between;
 }
 
 .footer>.social-media-icons-wrapper a {
@@ -314,11 +313,8 @@ p {
   
 }
 
-
+  
     
-    
-
-
 
 .footer h2 {
     font-size: 15px;
