@@ -1,4 +1,4 @@
-HORISEON 
+Horiseon
+Horiseon is a website that helps business owners find feasible clients.It controls the online opinion that their clients will have access to. It determines the platforms that are most compatible with their brand.
 
-Refactor Challenge
-Refactor code by meeting standards in web accessibility and following the Scout Rule. Improve codebase for long term sustainability and ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+Horiseon will place your business in a high ranking, where you will make a profit in a short time.![Web capture_4-3-2021_16383_](https://user-images.githubusercontent.com/77666204/109917905-39ee5e00-7d0a-11eb-8f82-d82c77c7c993.jpeg)
