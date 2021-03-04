@@ -288,6 +288,8 @@ p {
 
 .footer>.social-media-icons-wrapper {
     margin-bottom: 10px;
+    display: inline-flex;
+    justify-content: space-between;
     width: 100px;
     justify-content: space-between;
 }
@@ -314,7 +316,7 @@ p {
 
       
 .footer h2 {
-    font-size: 15px;
+    font-size: 25px;
     
     
 }
