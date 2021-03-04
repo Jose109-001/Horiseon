@@ -287,14 +287,13 @@ p {
 }
 
 .footer>.social-media-icons-wrapper {
-    margin-bottom: 8px;
+    margin-bottom: 10px;
     width: 100px;
-   
     justify-content: space-between;
 }
 
 .footer>.social-media-icons-wrapper a {
-    font-size: 1.3em;
+    font-size: 1.5em;
     color: #cea135;
     transition: 0.5s;
 }
@@ -304,8 +303,8 @@ p {
 }
 
 .footer {
-    padding: 30px;
-    clear: both;
+   padding: 50px;
+   clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     background-color : #d9dcd6;
@@ -313,9 +312,7 @@ p {
   
 }
 
-  
-    
-
+      
 .footer h2 {
     font-size: 15px;
     
