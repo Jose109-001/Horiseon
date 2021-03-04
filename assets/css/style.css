@@ -59,7 +59,6 @@ p {
 .hero {
     height: 500px;
     width: 100%;
-    margin-top: 0px;
     margin-bottom: 10px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: contain;
@@ -193,9 +192,8 @@ p {
 }
 
 .search-engine-optimization {
-    margin-top: 10px;
     margin-bottom: 10px;
-    padding: 60px;
+    padding: 65px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -204,9 +202,8 @@ p {
 }
 
 .online-reputation-management {
-    margin-top: 10px;
     margin-bottom: 10px;
-    padding: 60px;
+    padding: 65px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -216,9 +213,8 @@ p {
 }
 
 .social-media-marketing {
-    margin-top: 10px;
     margin-bottom: 10px;
-    padding: 60px;
+    padding: 65px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
