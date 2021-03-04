@@ -9,12 +9,11 @@ body {
 }
 
 .header {
-    padding: 15px;
+    padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
-    border-style: unset;
-    
+    color: hsl(0, 15%, 81%);
+
 }
 
 .header h1 {
@@ -23,15 +22,15 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color:#cea135;
 }
 
 .header div {
-    padding-top: 30px;
-    margin-right: 20px;
+    padding-top: 10px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+
 }
 
 .header div ul {
@@ -46,7 +45,7 @@ body {
 a {
     color: #cea135;
     text-decoration: none;
-    transition: 0.5s;
+    
 }
 
 a:hover {
@@ -54,7 +53,7 @@ a:hover {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .hero {
@@ -63,14 +62,16 @@ p {
     margin-top: 0px;
     margin-bottom: 3px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
-    border-style: outset;
+
+
+    
 }
 
 .float-left {
     float: left;
-    margin-right: 30px;
+    margin-right: 25px;
 }
 
 .float-right {
@@ -81,21 +82,22 @@ p {
 .content {
     width: 77%;
     display: inline-block;
-    margin-left: 5px;
+    margin-left: 20px;
 }
 
 .benefits {
-    margin-right: 0px;
-    margin-bottom: -10px;
-    padding: 39px;
+    margin-right: 20px;
+    margin-left: -10px;
+    margin-top: 9px;
+    margin-bottom: 0px;
+    padding: 20px;
     clear: both;
     float: right;
-    width: 22.5%;
+    width: 20.0%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    border-style: inset;
-    border-color: darkblue;
+
    
 }
 
@@ -105,20 +107,20 @@ p {
 }
 
 .benefit-brand {
-    margin-bottom: 45px;
+    margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-cost {
-    margin-bottom: 45px;
+    margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-lead h3 {
     margin-top: -5px;
-    margin-bottom: -8px;
+    margin-bottom: -9px;
     text-align: center;
-    font-size: 22px;
+    font-size: 32px;
     color: #cea135;
     transition: 0.5s;
 }
@@ -128,7 +130,7 @@ p {
 }
 
 .benefit-lead p {
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
     margin-top: -25px;
     margin-bottom: 20px;
@@ -138,7 +140,7 @@ p {
     margin-top: -20px;
     margin-bottom: -8px;
     text-align: center;
-    font-size: 22px;
+    font-size: 32px;
     color: #cea135;
     transition: 0.5s;
 }
@@ -148,16 +150,16 @@ p {
 }
 
 .benefit-brand P {
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
-    margin-top: -20px;
+    margin-top: 8px;
 }
 
 .benefit-cost h3 {
-    margin-top: -10px;
-    margin-bottom: -8px;
+    margin-top: 10px;
+    margin-bottom: -15px;
     text-align: center;
-    font-size: 22px;
+    font-size: 32px;
     color: #cea135;
     transition: 0.5s;
 }
@@ -167,81 +169,79 @@ p {
 }
 
 .benefit-cost p {
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
-    margin-top: -20px;
+    margin-top: 10px;
 }
 
 .benefit-lead img {
     display: block;
     margin: 0px auto;
-    max-width: 150px;
+    max-width: 100px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 0px auto;
-    max-width: 150px;
+    max-width: 100px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 0px auto;
-    max-width: 150px;
+    max-width: 100px;
 }
 
 .search-engine-optimization {
-    margin-bottom: -10px;
-    padding: 15px;
-    height: 270px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 50px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    border-style: inset;
-    
+
 }
 
 .online-reputation-management {
     margin-top: 10px;
-    margin-bottom: -10px;
-    padding: 15px;
-    height: 270px;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    border-style: inset;
-   
+
     
 }
 
 .social-media-marketing {
     margin-top: 10px;
     margin-bottom: 20px;
-    padding: 40px;
-    height: 325px;
+    padding: 50px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    border-style: inset;
-    
+
     
 }
 
 .search-engine-optimization img {
-    max-height: 230px;
+    max-height: 200px;
 }
 
 .online-reputation-management img {
-    max-height: 230px;
+    max-height: 200px;
 }
 
 .social-media-marketing img {
-    max-height: 230px;
+    max-height: 200px;
 }
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 40px;
+    font-size: 36px;
     color: #cea135;
     transition: 0.5s;
 }
@@ -256,6 +256,7 @@ p {
 
 .online-reputation-management p {
     font-size: 18px;
+    
 }
 
 .social-media-marketing p {
@@ -286,15 +287,15 @@ p {
 }
 
 .footer>.social-media-icons-wrapper {
-    margin-top: 10px;
-    margin-bottom: 20px;
-    width: 200px;
+    margin-bottom: 10px;
     display: inline-flex;
-   justify-content: space-between;
+    justify-content: space-between;
+    width: 100px;
+    justify-content: space-between;
 }
 
 .footer>.social-media-icons-wrapper a {
-    font-size: 1.5em;
+    font-size: 29px;
     color: #cea135;
     transition: 0.5s;
 }
@@ -304,19 +305,20 @@ p {
 }
 
 .footer {
-    padding: 15px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    clear: both;
+   padding: 50px;
+   clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    background-color : #0072bb;
-    border-style: inset;
-    border-color: darkblue;
+    background-color : #d9dcd6;
+    
+  
 }
 
+      
 .footer h2 {
-    font-size: 20px;
+    font-size: 25px;
+    
+    
 }
 
 .footer p {
