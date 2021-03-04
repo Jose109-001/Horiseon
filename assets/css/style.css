@@ -59,7 +59,8 @@ p {
 .hero {
     height: 500px;
     width: 100%;
-    margin-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 3px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: contain;
     background-position: center;
@@ -85,11 +86,11 @@ p {
 }
 
 .benefits {
-    margin-right: 10px;
+    margin-right: 20px;
     margin-left: -10px;
     margin-top: 9px;
-    margin-bottom: 10px;
-    padding: 25.0px;
+    margin-bottom: 0px;
+    padding: 20px;
     clear: both;
     float: right;
     width: 20.0%;
@@ -116,6 +117,7 @@ p {
 }
 
 .benefit-lead h3 {
+    margin-top: -5px;
     margin-bottom: -9px;
     text-align: center;
     font-size: 32px;
@@ -131,10 +133,11 @@ p {
     font-size: 20px;
     text-align: center;
     margin-top: -25px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .benefit-brand h3 {
+    margin-top: -20px;
     margin-bottom: -8px;
     text-align: center;
     font-size: 32px;
@@ -190,7 +193,8 @@ p {
 }
 
 .search-engine-optimization {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -200,7 +204,8 @@ p {
 }
 
 .online-reputation-management {
-    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -211,7 +216,8 @@ p {
 }
 
 .social-media-marketing {
-    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -234,7 +240,7 @@ p {
 }
 
 .search-engine-optimization h2 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     font-size: 36px;
     color: #cea135;
     transition: 0.5s;
@@ -270,7 +276,7 @@ p {
 
 .social-media-marketing h2 {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     font-size: 40px;
     color: #cea135;
     transition: 0.5s;
@@ -299,11 +305,11 @@ p {
 }
 
 .footer {
-   padding: 45px;
+   padding: 50px;
    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    background-color : #0072bb;
+    background-color : #d9dcd6;
     
   
 }
