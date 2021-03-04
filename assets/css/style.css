@@ -22,14 +22,15 @@ body {
 }
 
 .header h1 .seo {
-    color:#cea135;
+    color: #d9dcd6;
 }
 
 .header div {
-    padding-top: 10px;
+    padding-top: 15px;
+    margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
 
 }
 
@@ -117,7 +118,6 @@ p {
 }
 
 .benefit-lead h3 {
-    margin-top: -5px;
     margin-bottom: -9px;
     text-align: center;
     font-size: 32px;
@@ -137,7 +137,6 @@ p {
 }
 
 .benefit-brand h3 {
-    margin-top: -20px;
     margin-bottom: -8px;
     text-align: center;
     font-size: 32px;
@@ -156,7 +155,6 @@ p {
 }
 
 .benefit-cost h3 {
-    margin-top: 10px;
     margin-bottom: -15px;
     text-align: center;
     font-size: 32px;
@@ -193,7 +191,7 @@ p {
 }
 
 .search-engine-optimization {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-top: 10px;
     padding: 50px;
     height: 300px;
@@ -204,7 +202,6 @@ p {
 }
 
 .online-reputation-management {
-    margin-top: 10px;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -217,7 +214,7 @@ p {
 
 .social-media-marketing {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -240,7 +237,7 @@ p {
 }
 
 .search-engine-optimization h2 {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 36px;
     color: #cea135;
     transition: 0.5s;
@@ -264,7 +261,7 @@ p {
 }    
 
 .online-reputation-management h2 {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 40px;
     color: #cea135;
     transition: 0.5s;
@@ -275,8 +272,7 @@ p {
 }
 
 .social-media-marketing h2 {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 40px;
     color: #cea135;
     transition: 0.5s;
@@ -287,15 +283,15 @@ p {
 }
 
 .footer>.social-media-icons-wrapper {
+    margin-top: 10px;
     margin-bottom: 10px;
+    width: 150px;
     display: inline-flex;
-    justify-content: space-between;
-    width: 100px;
-    justify-content: space-between;
+   justify-content: space-between;
 }
 
 .footer>.social-media-icons-wrapper a {
-    font-size: 29px;
+    font-size: 1.5em;
     color: #cea135;
     transition: 0.5s;
 }
@@ -305,20 +301,17 @@ p {
 }
 
 .footer {
-   padding: 50px;
-   clear: both;
+    padding: 10px;
+    margin-top: 5px;
+    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    background-color : #d9dcd6;
-    
-  
-}
+    background-color : #d9dcd6; {
 
-      
+
+
 .footer h2 {
-    font-size: 25px;
-    
-    
+    font-size: 15px;
 }
 
 .footer p {
