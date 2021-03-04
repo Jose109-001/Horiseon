@@ -116,7 +116,6 @@ p {
 }
 
 .benefit-lead h3 {
-    margin-top: -5px;
     margin-bottom: -9px;
     text-align: center;
     font-size: 32px;
@@ -136,7 +135,6 @@ p {
 }
 
 .benefit-brand h3 {
-    margin-top: -20px;
     margin-bottom: -8px;
     text-align: center;
     font-size: 32px;
@@ -224,15 +222,15 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 259px;
+    max-height: 200px;
 }
 
 .online-reputation-management img {
-    max-height: 250px;
+    max-height: 200px;
 }
 
 .social-media-marketing img {
-    max-height: 250px;
+    max-height: 200px;
 }
 
 .search-engine-optimization h2 {
@@ -301,7 +299,7 @@ p {
 }
 
 .footer {
-   padding: 40px;
+   padding: 45px;
    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
