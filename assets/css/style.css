@@ -309,16 +309,13 @@ p {
    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    background-color : #d9dcd6;
-    
-  
-}
-
+    background-color : #0072bb;
       
+}
+     
 .footer h2 {
     font-size: 25px;
-    
-    
+        
 }
 
 .footer p {
