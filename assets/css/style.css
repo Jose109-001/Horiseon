@@ -224,15 +224,15 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 259px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 250px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 250px;
 }
 
 .search-engine-optimization h2 {
@@ -301,7 +301,7 @@ p {
 }
 
 .footer {
-   padding: 35px;
+   padding: 40px;
    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
