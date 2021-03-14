@@ -1,4 +1,4 @@
-# horiseon-accessibility-code-refactor
+# Horiseon-accessibility-code-refactor
 
 ## User Story
 
