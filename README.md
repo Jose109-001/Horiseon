@@ -23,9 +23,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Screen Shot![Horiseon](https://user-images.githubusercontent.com/77666204/111063095-f3b2af00-8500-11eb-9626-1e5b638c9d46.png)
-
-##Screenshot
-
+![Horiseon](https://user-images.githubusercontent.com/77666204/111063161-383e4a80-8501-11eb-95df-8ab018c67195.png)
 
 
