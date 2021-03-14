@@ -1,9 +1,15 @@
 Horiseon Code Refactor
 The Horiseon Company has asked for a refactoring of their webpage codebase. This refactored codebase should be compliant with mandatory accessibility requirements and should incorporate best practices for code maintenance and readability.
+
+
+
 User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
+
+
+
 Requirements
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -20,7 +26,7 @@ THEN I find a concise, descriptive title
 Screenshot:
 
 
-![Horiseon](https://user-images.githubusercontent.com/77666204/111062859-b0a40c00-84ff-11eb-8bc9-4fe203de5ef3.png)
 
-Screenshot:
+
+
 
