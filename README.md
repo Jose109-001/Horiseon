@@ -1,13 +1,10 @@
 # horiseon-accessibility-code-refactor
 
-
 ## User Story
 
-```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
 
 ## Acceptance Criteria
 
@@ -23,6 +20,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+
+
+
+
+Screenshot
+
 ![Horiseon](https://user-images.githubusercontent.com/77666204/111063161-383e4a80-8501-11eb-95df-8ab018c67195.png)
+
+
 
 
