@@ -1,16 +1,10 @@
-Horiseon Code Refactor
-The Horiseon Company has asked for a refactoring of their webpage codebase. This refactored codebase should be compliant with mandatory accessibility requirements and should incorporate best practices for code maintenance and readability.
-
-
-
+horiseon-accessibility-code-refactor
+Refactor of the Horiseon web page to follow accessibility standards and optimize for search engines.
 User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-
-
-
-Requirements
+Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -22,10 +16,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-Screenshot:
-
-
 
 
 
