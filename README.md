@@ -101,7 +101,7 @@ You are required to submit the following for review:
 * The URL of the deployed application.
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
+![Horiseon](https://user-images.githubusercontent.com/77666204/111062663-52c2f480-84fe-11eb-88d6-97687ae37685.png)
 
----
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
